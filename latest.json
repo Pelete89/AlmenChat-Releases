@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
   "download_url": "https://raw.githubusercontent.com/Pelete89/AlmenChat-Releases/refs/heads/main/AlmenChat-v0.2.0.apk",
-  "sha256": "4d204b3be2f92cf4fe45beebfab289e0522e8a697bc5e5f9923b3b7852257a54",
-  "release_notes": "AlmenChat v0.2.0"
+  "sha256": "a0c8823d0e880ad322e7b39734a807d6292b89e64923fccb51d2af3c7c1d3f92",
+  "release_notes": "Versión preliminar con sistema de actualización automática."
 }
